@@ -20,7 +20,7 @@ Since Event Grid doesn't ensure event delivery order, subscribers should be prep
 - Provision resources in Azure:
 
 ### run:
-- From `tf` folder:
+#### From `tf` folder:
 
 - terraform init
 - terraform plan -out main.tfplan
