@@ -1,0 +1,4 @@
+azure-eventgrid
+azure-core
+azure-identity
+azure-servicebus
